@@ -1,0 +1,7 @@
+Linkdin = https://www.linkedin.com/in/aniket-maharana-63146828b/
+Github = https://github.com/ANIKET2005-M
+SupportOpsEnv = https://github.com/ANIKET2005-M/openenv-supportops-agent
+Fraud Detector = https://github.com/ANIKET2005-M/fraud-detection-system
+FundForge AI = https://github.com/ANIKET2005-M/FundForge-AI
+Cyber Threat Intelligence = https://github.com/ANIKET2005-M/CyberProject
+Buyer Intelligence = https://project-1-a8vwsgqmgv2t9x3fzzsybd.streamlit.app/
